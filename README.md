@@ -14,3 +14,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+## Firebase Configuration
+
+This project requires a `google-services.json` file in `android/app/` for Firebase to work. This file is not included in the public repository for security reasons. Please obtain your own from the Firebase Console and place it in the correct directory.
