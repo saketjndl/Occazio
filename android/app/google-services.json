@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "471944587127",
+    "project_id": "occaziotest",
+    "storage_bucket": "occaziotest.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:471944587127:android:23fa0b27a0d3def4d06372",
+        "android_client_info": {
+          "package_name": "com.example.occazziotest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "471944587127-pk6iggdf9oqs59qqqrvkhmvsjjck73ne.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.occazziotest",
+            "certificate_hash": "290614fcc55c3434344a8ae3b5ac8c1756a8b1f7"
+          }
+        },
+        {
+          "client_id": "471944587127-5p3or45glo8absn86k7ucetmhf10g7k1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgwEwy7cmcoEjenvCqusbGEPO4n0qCW-E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "471944587127-5p3or45glo8absn86k7ucetmhf10g7k1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
