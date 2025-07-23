@@ -71,6 +71,12 @@ Occazio/
 - Chatbot support for planning queries
 - Vendor-side dashboard portal
 
+- ## Project made and managed by
+- saketjndl
+- ShreyM4
+- Ahuja2304
+- Dev-Harsh773
+
 ---
 
 ## Firebase Configuration
