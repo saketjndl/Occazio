@@ -58,13 +58,6 @@ Occazio/
    - Follow Firebase setup docs to link your project
    - Add google-services.json or GoogleService-Info.plist to the project as needed
 
-## 🤝 Team Occazio
-- UI/UX Design: [Member Name]
-- Authentication & Home Screen: [Member Name]
-- Database & Backend Integration: [Member Name]
-- Settings/Profile/Privacy: [Member Name]
-- Documentation & Research: [Member Name]
-
 ## 📌 Future Scope
 - AI-powered vendor recommendation engine
 - Dynamic pricing and availability tracking
